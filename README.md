@@ -17,5 +17,5 @@ qrun -br -s # build and play with suggestion
 
 ## ScreenShot
 
-![](http://cos.rhythmlian.cn/QQ20201211-204213-HD.gif)
+![](https://p.pstatp.com/origin/ff31000312a51d57d71c)
 
